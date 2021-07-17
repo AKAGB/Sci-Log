@@ -9,7 +9,7 @@
 
 ## 如何找论文
 
-如果未知论文题目：依**关键词**嗖嗖相关领域的论文：
+如果未知论文题目：依**关键词**搜索相关领域的论文：
 
 1. [google scholar](https://scholar.google.com/)
 2. [arXiv](https://arxiv.org/)
